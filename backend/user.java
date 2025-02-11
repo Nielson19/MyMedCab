@@ -9,7 +9,7 @@
     //Weight
 
 
-package org.example;
+package backend;
 public class User {
     private int patientId;
     private String firstName;

@@ -6,7 +6,7 @@
   //expirationDate - when does a medicine expire?
   //formula - formula type: pill or syrup
   //timeline - how often should you take
-package org.example;
+package backend;
 public class Medicine {
     private int MedID;
     public String name;

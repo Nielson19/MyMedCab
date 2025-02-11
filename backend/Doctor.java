@@ -1,3 +1,5 @@
+package backend;
+
 /**
  * Doctor class contain the information about
  * each doctor including name, ID, HospitalID,

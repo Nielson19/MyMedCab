@@ -1,3 +1,5 @@
+package backend;
+
 /**
  * Pharamcy class contain all the information
  * about each pharmacy including: PharmacyID,

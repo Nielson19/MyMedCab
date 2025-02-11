@@ -1,4 +1,4 @@
-//This file will connect to the MMC DB
+package backend;//This file will connect to the MMC DB
 
 import java.sql.*;
   public class Main{
