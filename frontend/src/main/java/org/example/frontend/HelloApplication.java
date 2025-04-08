@@ -1,5 +1,7 @@
 package org.example.frontend;
 
+// to run this program we need to type in the terminal: mvn clean javafx:run
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -21,3 +23,4 @@ public class HelloApplication extends Application {
         launch();
     }
 }
+
